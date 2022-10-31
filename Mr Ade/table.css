@@ -1,0 +1,21 @@
+table{
+    border: 1px solid black;
+    padding: 5;
+    border-spacing: 5;
+}
+#group{
+    border: 1px solid black;
+    padding: 5;
+    border-spacing: 5;
+}
+.table{
+    border: 1px solid black;
+    padding: 5;
+    border-spacing: 5;
+}
+.data{
+    border: 1px solid black;
+    padding: 5;
+    border-spacing: 5;
+    text-align: center;
+}                                                              
